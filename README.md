@@ -7,7 +7,7 @@
 ## 24-1
 
 - [24-1 디지털시스템 | Digital System (prof. JT Kim)]
-- 
+
 ## 24-2
 
 - [24-2 마이크로프로세서실험 | Microprocessor Laboratory (prof. JW Jeon)]
