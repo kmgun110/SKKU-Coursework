@@ -1,6 +1,6 @@
 # SKKU Coursework
 
-> Assignment/Porjects for SKKU coursework.
+> Assignment/Projects for SKKU coursework.
 > 
 > BS in Electronic & Electrical Engineering
 
