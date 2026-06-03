@@ -1,0 +1,12 @@
+
+module full_adder_module (a, b, cin, sum, cout);
+	input a, b, cin;
+	output sum, cout;
+	reg sum, cout;
+	
+	always@(a or b or cin)
+	begin
+		{cout, sum} <= a + b + cin;
+	end
+
+endmodule
